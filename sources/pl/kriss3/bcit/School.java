@@ -7,8 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 
  * @author Krzysztof Szczurowski
- *
+ * @see https://github.com/kriss3/BCIT_JavaSemester02-Class05_Lab01_Home.git
+ * @since 2017-02-10
  */
 public class School
 {	

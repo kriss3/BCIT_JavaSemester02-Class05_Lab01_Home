@@ -1,18 +1,15 @@
 package pl.kriss3.bcit;
 
+/**
+ * @author Krzysztof Szczurowski
+ * @see https://github.com/kriss3/BCIT_JavaSemester02-Class05_Lab01_Home.git
+ * @since 2017-02-10
+ */
 public class Student extends Person
 {
 	private String studentNumber;
 	private String major;
 	private double gpa;
-	
-	/*
-	private String firstName;
-	private String lastName;
-	private int yearOfBirth;
-	private Gender sGender;
-	
-	*/
 	
 	//What is substitution, you can always substitute Child for parent but parent for child - not always, check required and CAST
 	public Student(String firstName, String lastName, int yearOfBirth, Gender sGender, String studentNumber, String major, double gpa)
